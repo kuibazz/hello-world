@@ -1,4 +1,4 @@
 # hello-world
-first try
-I'm so angry about my teacher
+first try/c
+I'm so angry about my teacher/c
 I know the best way to make one's fame drop 
